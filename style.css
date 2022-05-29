@@ -374,7 +374,7 @@ gabi::before
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background:url(../images/5.jpg) no-repeat;
+    background:url(images/5.jpg) no-repeat;
     background-size: cover;
    
 }
